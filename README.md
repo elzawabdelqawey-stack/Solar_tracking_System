@@ -1,4 +1,4 @@
-#include <Servo.h>
+#include <Servo.h> 
 
 Servo verticalServo; 
 int servoVertical = 60; 
