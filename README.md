@@ -1,5 +1,5 @@
 #include <Servo.h> 
-
+ 
 Servo verticalServo; 
 int servoVertical = 60; 
 int servoVerticalLimitHigh = 175;
